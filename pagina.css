@@ -1,0 +1,39 @@
+.principal{
+	background: #CCCCCC;
+}
+.titulo-principal{
+	text-align: center;
+	font-size: 30px;
+	color:red;
+}
+.titulo2{
+	color:blue;
+}
+#missao{
+	font-size: 15px;
+	color: purple;
+	font-style: italic;
+}
+#missao2{
+	font-size: 15px;
+}
+#missao3{
+	font-size: 15px;
+}
+.itens{
+	font-style:italic;
+}
+
+.titulo3{
+	background:#FFFFFF;
+	padding: 20px; 
+}
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+.beneficios2{
+	width: 50%;
+}
